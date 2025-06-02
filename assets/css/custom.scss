@@ -1,0 +1,105 @@
+---
+# 
+---
+
+// Fonts (add in _includes/head.html too via Google Fonts)
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Source+Sans+Pro:wght@400;600&display=swap');
+
+// Root Variables
+:root {
+  --font-sans: 'Source Sans Pro', sans-serif;
+  --font-serif: 'Merriweather', serif;
+
+  --background-color: #ffffff;
+  --text-color: #1a1a1a;
+  --link-color: #4e79a7;
+  --link-hover-color: #376191;
+
+  --accent-color: #005f73;
+  --border-color: #e0e0e0;
+  --muted-text-color: #666666;
+}
+
+// Global Styles
+body {
+  font-family: var(--font-sans);
+  color: var(--text-color);
+  background-color: var(--background-color);
+  line-height: 1.6;
+  font-size: 17px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  color: var(--accent-color);
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover, a:focus {
+  color: var(--link-hover-color);
+  text-decoration: underline;
+}
+
+header.site-header, footer.site-footer {
+  background-color: #f7f7f7;
+  border-bottom: 1px solid var(--border-color);
+  padding: 1rem 0;
+}
+
+.site-title {
+  font-weight: 600;
+  color: var(--accent-color);
+}
+
+// Buttons
+.btn {
+  background-color: var(--accent-color);
+  color: white;
+  padding: 0.5em 1em;
+  border: none;
+  border-radius: 4px;
+  text-transform: uppercase;
+  font-weight: 600;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.btn:hover {
+  background-color: darken(var(--accent-color), 10%);
+}
+
+// Sidebar (optional)
+.sidebar {
+  background: #f9f9f9;
+  border-right: 1px solid var(--border-color);
+}
+
+.sidebar .nav > li > a {
+  font-family: var(--font-sans);
+  color: var(--text-color);
+}
+
+.sidebar .nav > li > a:hover {
+  color: var(--accent-color);
+}
+
+// Publication cards
+.publication {
+  border-left: 3px solid var(--accent-color);
+  padding-left: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.publication .pub-title {
+  font-weight: bold;
+}
+
+.publication .pub-meta {
+  color: var(--muted-text-color);
+  font-size: 0.9em;
+}
