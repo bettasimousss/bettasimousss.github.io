@@ -86,8 +86,8 @@ header.site-header, footer.site-footer {
 
 // Sidebar (optional)
 .sidebar {
-  background: #f3f5f7;
-  border-right: 1px solid $border-color;
+  background: transparent;
+  border-right: none;//1px solid $border-color;
 }
 
 .sidebar .nav > li > a {
