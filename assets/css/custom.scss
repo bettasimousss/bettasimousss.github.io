@@ -84,20 +84,20 @@ header.site-header, footer.site-footer {
   background-color: $accent-color-dark;
 }
 
-// Sidebar (optional)
-.sidebar {
-  background: #f3f5f7;
-  border-right: 1px solid $border-color;
-}
+// // Sidebar (optional)
+// .sidebar {
+//   background: #f3f5f7;
+//   border-right: 1px solid $border-color;
+// }
 
-.sidebar .nav > li > a {
-  font-family: $font-sans;
-  color: $text-color;
-}
+// .sidebar .nav > li > a {
+//   font-family: $font-sans;
+//   color: $text-color;
+// }
 
-.sidebar .nav > li > a:hover {
-  color: $accent-color;
-}
+// .sidebar .nav > li > a:hover {
+//   color: $accent-color;
+// }
 
 // Publication cards
 .publication {
