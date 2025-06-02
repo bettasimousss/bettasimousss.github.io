@@ -33,4 +33,4 @@ I believe that **open science**, **reproducibility**, and **interdisciplinary co
 Feel free to reach out if you're interested in collaboration, data sharing, or simply want to talk about AI for good.
 
 📧 [firstname].[lastname]@univ-grenoble-alpes.fr
-🔗 [GitHub](https://github.com/bettasimousss) | [Google Scholar][(https://scholar.google.com)](https://scholar.google.com/citations?user=ar_cQPMAAAAJ&hl=fr)
+🔗 [GitHub](https://github.com/bettasimousss) | [Google Scholar](https://scholar.google.com/citations?user=ar_cQPMAAAAJ&hl=fr)
