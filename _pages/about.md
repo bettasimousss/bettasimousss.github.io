@@ -1,16 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "AI for Biodiversity"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-
----
-layout: page
-title: "About"
-permalink: /about/
 ---
 
 ## About Me
