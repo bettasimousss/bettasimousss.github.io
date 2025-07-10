@@ -9,9 +9,11 @@ redirect_from:
 
 ## About Me
 
-I am a researcher working at the intersection of **biodiversity modeling**, **artificial intelligence**, and **remote sensing**. My work is grounded in a deep commitment to **conservation science**, leveraging cutting-edge computational tools to understand, predict, and protect the world’s ecosystems.
+Originally a vagrant individual from computer science, I’ve since established in the rich and tangled niche of ecological science. What began as a serendipitous dispersal event, a PhD in biodiversity modeling, became a long-term residency in computational ecology. These days, I spend my time crafting models to ask ecological questions, some old, some new, and some we didn’t know how to ask before. I’m here for the organized chaos, the unexpected insights, and the joy of learning something weird about nature every day.
 
-With a background in ecological modeling and data science, I develop machine learning pipelines that integrate multi-source environmental data—ranging from satellite imagery to ecological surveys—to model species distributions, monitor ecosystem change, and inform conservation planning.
+## Research
+
+My research lies at the intersection of **biodiversity modeling** and **artificial intelligence**. With a background in computer science and a PhD in ecology, I develop advances statistical and learning frameworks that integrate multi-source environmental data—ranging from satellite imagery to ecological surveys—to model biodiversity in spaces to inform monitoring and support conservation planning.
 
 My research bridges theory and application, with projects focused on:
 
@@ -19,12 +21,6 @@ My research bridges theory and application, with projects focused on:
 - **Remote Sensing for Ecology**: Applying high-resolution satellite and drone data to detect habitat loss, fragmentation, and phenological shifts.
 - **Conservation Intelligence**: Developing automated tools to support real-time biodiversity monitoring and decision-making.
 - **Interdisciplinary Collaboration**: Working with ecologists, computer scientists, conservation NGOs, and policymakers to translate research into impact.
-
----
-
-## Research Philosophy
-
-I believe that **open science**, **reproducibility**, and **interdisciplinary collaboration** are vital to solving the pressing environmental challenges of our time. My work is motivated by a sense of urgency and hope—that by combining ecological insight with technological innovation, we can contribute meaningfully to sustaining life on Earth.
 
 ---
 
