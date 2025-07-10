@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ecology, AI, and Everything In Between"
+title: "Ecology-informed AI for advancing biodiversity science"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,11 +10,9 @@ redirect_from:
 ## About Me
 
 <p style="text-align: justify;">
-Originally a vagrant individual from computer science, I’ve since established in the rich and tangled niche of ecological science. What began as a serendipitous dispersal event, a PhD in biodiversity modeling, became a long-term residency in computational ecology. 
-
+Originally a vagrant individual from computer science, I’ve since established in the rich and tangled niche of ecological science. What began as a serendipitous dispersal event, a PhD in biodiversity modeling, became a long-term residency in computational ecology. <br><br>
   
-These days, I spend my time crafting models to ask ecological questions, some old, some new, and some we didn’t know how to ask before. I’m here for the organized chaos, the unexpected insights, and the joy of learning something weird about nature every day.
-
+These days, I spend my time crafting models to ask ecological questions, some old, some new, and some we didn’t know how to ask before. I’m here for the organized chaos, the unexpected insights, and the joy of learning something weird about nature every day.<br><br>
 
 Outside of research, I explore the natural world by foot 🥾, fin 🤿, or bike 🚴 wherever curiosity leads ideally not all at once. I occasionally play 🏀 basketball, just to remind myself that not all nets are ecological or neural.
 </p>
