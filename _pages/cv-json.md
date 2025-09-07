@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv-json/
 author_profile: false
 redirect_from:
@@ -28,6 +28,4 @@ redirect_from:
 </style>
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
-  <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
-</div>
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>div>
