@@ -19,7 +19,8 @@ My work bridges ecological theory and machine learning to develop frugal, scalab
 
 My previous work includes:
 
-- **Predictive AI for community-level modeling**: Developing joint species distribution models (JSDMs), community-level deep learning, and explainable AI to attribute drivers of biodiversity change.
+- **Predictive AI for community-level modeling**: Developing deep joint species and community-level distribution models.
+- **Trustworthy and frugal modeling**: Explainable AI for multi-species distribution models, foundation models for frugal learning and imbalance aware training.
 - **Ecological structure learning**: Inferring ecological association from large-scale biodiversity data using dependency networks and species representation learning.
 - **Leveraging ecological structure in biodiversity models**:  Integrating ecological network and macroecological properties within predictive models.
 - **Remote sensing of ecosystems**: Leveraging high-resolution Earth Observation data and foundation models to map habitats, monitor biodiversity, and support large-scale modeling.
