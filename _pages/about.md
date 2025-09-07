@@ -11,8 +11,6 @@ redirect_from:
 
 <p style="text-align: justify;">
 Originally trained in computer science, I dispersed into the niche of ecological science through a PhD in biodiversity modeling, and I’ve since settled as a computational ecologist. My research lies at the intersection of ecology, statistics, and artificial intelligence, where I design models to explain biodiversity patterns, uncover ecological processes, and forecast ecosystem responses under global change. <br><br>
-
-Outside of research, I explore the natural world by foot 🥾, fin 🤿, or bike 🚴 wherever curiosity leads - ideally not all at once. I occasionally play 🏀 basketball, just to remind myself that not all nets are ecological or neural.
 </p>
 
 ## Research
@@ -28,6 +26,9 @@ My previous work includes:
 - **Applied conservation support**: Contributing to European and national projects to deliver modeling tools that guide biodiversity assessments and conservation planning.
 
 I collaborate across ecology, computer science, and conservation practice, supervising students from diverse backgrounds and co-leading projects with academic and non-academic partners.
+
+## Hobbies
+Outside of research, I explore the natural world by foot 🥾, fin 🤿, or bike 🚴 wherever curiosity leads - ideally not all at once. I occasionally play 🏀 basketball, just to remind myself that not all nets are ecological or neural.
 
 ---
 
