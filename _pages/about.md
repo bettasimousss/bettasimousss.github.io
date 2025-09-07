@@ -19,7 +19,7 @@ My work bridges ecological theory and machine learning to develop frugal, scalab
 
 <div class="cv-download-links">
   <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
-</div>div>
+</div>
 
 My previous work includes:
 
