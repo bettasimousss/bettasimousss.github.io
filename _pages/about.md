@@ -10,21 +10,24 @@ redirect_from:
 ## About Me
 
 <p style="text-align: justify;">
-Originally a vagrant individual from computer science, I’ve since established in the rich and tangled niche of ecological science. What began as a serendipitous dispersal event, a PhD in biodiversity modeling, became a long-term residency in computational ecology. These days, I spend my time crafting models to ask ecological questions, some old, some new, and some we didn’t know how to ask before.<br><br>
+Originally trained in computer science, I dispersed into the niche of ecological science through a PhD in biodiversity modeling, and I’ve since settled as a computational ecologist. My research lies at the intersection of ecology, statistics, and artificial intelligence, where I design models to explain biodiversity patterns, uncover ecological processes, and forecast ecosystem responses under global change. <br><br>
 
 Outside of research, I explore the natural world by foot 🥾, fin 🤿, or bike 🚴 wherever curiosity leads - ideally not all at once. I occasionally play 🏀 basketball, just to remind myself that not all nets are ecological or neural.
 </p>
 
 ## Research
 
-My research lies at the intersection of **biodiversity modeling** and **artificial intelligence**. With a background in computer science and a PhD in ecology, I develop advances statistical and learning frameworks that integrate multi-source environmental data—ranging from satellite imagery to ecological surveys—to model biodiversity in spaces to inform monitoring and support conservation planning.
+My work bridges ecological theory and machine learning to develop frugal, scalable, and trustworthy models that can handle high-dimensional, imbalanced biodiversity data. I combine ecological surveys, functional and habitat data, and multi-modal environmental information (climate, remote sensing, citizen science) to advance both theory and applied conservation. 
 
-My research bridges theory and application, with projects focused on:
+My previous work includes:
 
-- **AI for Biodiversity**: Using deep learning and probabilistic models to predict species habitats and extinction risks under global change scenarios.
-- **Remote Sensing for Ecology**: Applying high-resolution satellite and drone data to detect habitat loss, fragmentation, and phenological shifts.
-- **Conservation Intelligence**: Developing automated tools to support real-time biodiversity monitoring and decision-making.
-- **Interdisciplinary Collaboration**: Working with ecologists, computer scientists, conservation NGOs, and policymakers to translate research into impact.
+- **Predictive AI for community-level modeling**: Developing joint species distribution models (JSDMs), community-level deep learning, and explainable AI to attribute drivers of biodiversity change.
+- **Ecological structure learning**: Inferring ecological association from large-scale biodiversity data using dependency networks and species representation learning.
+- **Leveraging ecological structure in biodiversity models**:  Integrating ecological network and macroecological properties within predictive models.
+- **Remote sensing of ecosystems**: Leveraging high-resolution Earth Observation data and foundation models to map habitats, monitor biodiversity, and support large-scale modeling.
+- **Applied conservation support**: Contributing to European and national projects to deliver modeling tools that guide biodiversity assessments and conservation planning.
+
+I collaborate across ecology, computer science, and conservation practice, supervising students from diverse backgrounds and co-leading projects with academic and non-academic partners.
 
 ---
 
