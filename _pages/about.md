@@ -18,7 +18,8 @@ Originally trained in computer science, I dispersed into the niche of ecological
 My work bridges ecological theory and machine learning to develop frugal, scalable, and trustworthy models that can handle high-dimensional, imbalanced biodiversity data. I combine ecological surveys, functional and habitat data, and multi-modal environmental information (climate, remote sensing, citizen science) to advance both theory and applied conservation. 
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>div>
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
+</div>div>
 
 My previous work includes:
 
